@@ -1,5 +1,6 @@
 # [Regex-Vis](https://regex-vis.com)
 🎨 Regex visualizer & editor
+正则表达式可视化
 
 ## Preview
 ![regex-vis](https://user-images.githubusercontent.com/27432981/180222745-da4671c6-8e0e-44f2-818f-25d5fa237956.gif)
